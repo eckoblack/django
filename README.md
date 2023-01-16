@@ -1,0 +1,1 @@
+Esi's Django web app for ecomerce business.
